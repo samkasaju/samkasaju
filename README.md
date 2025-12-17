@@ -62,8 +62,9 @@ I'm a third-year BCA student with a strong interest in **DevOps, Cloud Computing
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Samriddhi kasaju](https://www.linkedin.com/in/samriddhi-kasaju)
-* 📧 Email: samkasaju@gmail.com
+* 💼 LinkedIn: [Samriddhi kasaju](https://www.linkedin.com/in/samriddhi-kasaju-0b8441280/)
+* 📧 Email: samkasaju@gmail.com , kasajusam@gmail.com
+
 
 ---
 
