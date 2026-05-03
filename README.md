@@ -8,7 +8,7 @@ I'm a third-year BCA student with a strong interest in **DevOps, Cloud Computing
 
 ## 🚀 About Me
 
-* 🎓 Currently in **6th semester (BCA)**
+* 🎓 Currently in **7th semester (BCA)**
 * 🔁 Actively upskilling in **DevOps & Cloud Computing**
 * 🐍 Strong and growing interest in **Python & backend development**
 * 🧠 Believe in *learning by doing* and consistent practice
